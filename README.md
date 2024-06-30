@@ -34,4 +34,4 @@ The dataset used in this project is a time-series data containing daily records 
 
 
 ## Usage
-To use these scripts, clone the repository and run the Python scripts in your local environment. Make sure to install the necessary Python libraries mentioned in the requirements.txt file.
+To use these scripts, clone the repository and run the Python scripts in your local environment. Make sure to install the necessary Python libraries mentioned in the **requirements.txt** file.
